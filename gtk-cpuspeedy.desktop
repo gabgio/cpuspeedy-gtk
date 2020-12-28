@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=gtk-cpuspeedy
+Comment=GTK+ frontend for cpuspeedy
+TryExec=gtk-cpuspeedy
+Exec=gksu -m 'GTK-Cpuspeedy needs superuser priviledges to run.' -t 'Enter root password' -u root gtk-cpuspeedy
+Icon=gtk-cpuspeedy.png
+Terminal=false
+Type=Application
+Categories=Application;System;

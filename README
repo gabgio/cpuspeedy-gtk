@@ -1,0 +1,65 @@
+
+
+
+gtk-cpuspeedy
+
+  A GTK+ frontend to cpuspeedy, a simple and easy to use program 
+  to control the speed and the voltage of CPUs on the fly.
+
+
+
+Overview
+
+  A graphical frontend to cpuspeedy http://cpuspeedy.sourceforge.net
+
+
+
+Software prerequisites
+
+  GTK+2 libs.
+  cpuspeedy version >= 0.4.0 correctly installed on the system.
+
+
+
+Download
+
+  The latest versions of gtk-cpuspeedy and cpuspeedy can be 
+  downloaded at: http://cpuspeedy.sourceforge.net
+
+
+
+Installation
+
+  see the INSTALL file for more information
+
+  # ./configure
+  # make
+  # make install
+
+
+
+Usage
+
+  gtk-cpuspeedy has to be run as root.
+  
+  # gtk-cpuspeedy
+  or
+  # gtk-cpuspeedy --help
+  or
+  # gtk-cpuspeedy --cpuspeedy-path=/usr/local/sbin/cpuspeedy
+  
+
+
+
+Copyright and author
+
+  gtk-cpuspeedy was written by Gabriele Giorgetti and is free 
+  software licensed under the GNU GPL.
+
+  
+ 
+Bugs
+  
+  Please send comments, whishes, bug reports, success reports,
+  patches to Gabriele Giorgetti <gabriele_giorgetti@tin.it>
+

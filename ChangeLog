@@ -1,0 +1,33 @@
+2004-05-24 Gabriele Giorgetti <gabriele_giorgetti@tin.it>
+
+        * The GUI interface was redesigned.
+        * A ComboBox was added in place of the toggle buttons.
+	* A thermometer icon was added.
+	* A cpu speed label and a temperature label was added. 
+        * Both the window_main and window_about were made resizable.
+
+2004-04-21 Gabriele Giorgetti <gabriele_giorgetti@tin.it>
+
+        * Version 0.3.0 released.
+        * Menu icon and .desktop file added.
+        * The CPU speed and temperature status label text is now bigger and bold. 
+        * The about window text is now selectable.
+        
+2004-04-19 Gabriele Giorgetti <gabriele_giorgetti@tin.it>
+
+        * Command line arguments are now enabled.
+        * An option to specify the path to cpuspeedy was added.
+        * Options were added to disable version checking and path checking.
+        * cpuspeedy version checking is now correctly handled.
+
+2004-04-06 Gabriele Giorgetti <gabriele_giorgetti@tin.it>
+
+        * Version 0.2 released.
+        * Fixed a potential bug with fclose() to close the open pipes,
+          pclose() is now used instead.
+        * cpuspeedy version checking added.   
+        * Tooltips for the radiobuttons were added. 
+
+2004-03-28 Gabriele Giorgetti <gabriele_giorgetti@tin.it>
+
+        * Version 0.1 released. Initial release.

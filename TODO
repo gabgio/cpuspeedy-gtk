@@ -1,0 +1,3 @@
+[ ] gtk-cpuspeedy should get the cpu frequency status and set the correct
+    toggle-button when started.
+    Eg: if CPU speed is max the "maximum" toggle-button must be toggled.
